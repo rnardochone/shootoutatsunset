@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Shootout at Sunset-1.0";
 const contentToCache = [
-    "Build/Builds.loader.js",
-    "Build/Builds.framework.js",
-    "Build/Builds.data",
-    "Build/Builds.wasm",
+    "Build/Password.loader.js",
+    "Build/Password.framework.js",
+    "Build/Password.data",
+    "Build/Password.wasm",
     "TemplateData/style.css"
 
 ];
